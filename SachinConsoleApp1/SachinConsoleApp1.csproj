@@ -52,6 +52,7 @@
     <Compile Include="Array2.cs" />
     <Compile Include="ArrayPrimeNo.cs" />
     <Compile Include="AssignmentEnum.cs" />
+    <Compile Include="Enum.cs" />
     <Compile Include="NameSearch.cs" />
     <Compile Include="StringBuilderAssignment1.cs" />
     <Compile Include="ControlStatementAssign.cs" />
