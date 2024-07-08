@@ -31,6 +31,8 @@ namespace SachinConsoleApp1
 
         public static void Main(string[] args)
         {
+            Enum1 obj =new Enum1();
+            obj.show();
 
         }
     }
