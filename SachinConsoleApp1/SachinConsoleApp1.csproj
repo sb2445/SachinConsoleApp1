@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.AssignmentEnum</StartupObject>
+    <StartupObject>SachinConsoleApp1.Enum1</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -52,7 +52,7 @@
     <Compile Include="Array2.cs" />
     <Compile Include="ArrayPrimeNo.cs" />
     <Compile Include="AssignmentEnum.cs" />
-    <Compile Include="Enum.cs" />
+    <Compile Include="Enum1.cs" />
     <Compile Include="NameSearch.cs" />
     <Compile Include="StringBuilderAssignment1.cs" />
     <Compile Include="ControlStatementAssign.cs" />
