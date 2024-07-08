@@ -24,6 +24,11 @@ namespace SachinConsoleApp1
             December
         }
 
+        public void show()
+        {
+            Console.WriteLine("This is show method");
+        }
+
         public static void Main(string[] args)
         {
 
