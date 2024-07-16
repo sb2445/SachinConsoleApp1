@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.StaticPolymorphism</StartupObject>
+    <StartupObject>SachinConsoleApp1.Animal.DynamicPolymorphism</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -52,6 +52,7 @@
     <Compile Include="Array2.cs" />
     <Compile Include="ArrayPrimeNo.cs" />
     <Compile Include="AssignmentEnum.cs" />
+    <Compile Include="DynamicPolymorphism.cs" />
     <Compile Include="Enum1.cs" />
     <Compile Include="NameSearch.cs" />
     <Compile Include="StaticPolymorphism.cs" />
