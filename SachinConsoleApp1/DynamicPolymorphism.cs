@@ -12,34 +12,34 @@ namespace SachinConsoleApp1
         {
             Console.WriteLine("Drawing A Shape");
         }
-
-        class Circle : Animal
+    }
+    class Circle : Animal
+    {
+        public override void Draw()
         {
-            public override void Draw()
-            {
-                Console.WriteLine("Circle");
-            }
+            Console.WriteLine("Circle");
         }
-        class Rectangle : Animal
+    }
+    class Rectangle : Animal
+    {
+        public override void Draw()
         {
-            public override void Draw()
-            {
-                Console.WriteLine("Rectangle");
-            }
-
-
+            Console.WriteLine("Rectangle");
         }
-        internal class DynamicPolymorphism
+
+
+    }
+    internal class DynamicPolymorphism
+    {
+        public static void Main()
         {
-            public static void Main()
-            {
-                Animal obj= new Animal();
-                Animal obj2= new Circle();
-                Animal obj3 = new Rectangle();
-                obj.Draw();
-                obj2.Draw();
-                obj3.Draw();
-            }
+            Animal obj = new Animal();
+            Animal obj2 = new Circle();
+            Animal obj3 = new Rectangle();
+            obj.Draw();
+            obj2.Draw();
+            obj3.Draw();
         }
     }
 }
+
