@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.InterfaceAssignment</StartupObject>
+    <StartupObject>SachinConsoleApp1.SingleInheritanceAssignment</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -55,8 +55,11 @@
     <Compile Include="AssignmentEnum.cs" />
     <Compile Include="DynamicPolymorphism.cs" />
     <Compile Include="Enum1.cs" />
+    <Compile Include="HierarchicalInheritanceAssignment.cs" />
     <Compile Include="IPlayable.cs" />
+    <Compile Include="MultilevelInheritanceAssignment.cs" />
     <Compile Include="NameSearch.cs" />
+    <Compile Include="SingleInheritanceAssignment.cs" />
     <Compile Include="StaticPolymorphism.cs" />
     <Compile Include="StringBuilderAssignment1.cs" />
     <Compile Include="ControlStatementAssign.cs" />
