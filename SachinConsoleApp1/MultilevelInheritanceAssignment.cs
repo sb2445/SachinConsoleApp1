@@ -43,6 +43,7 @@ internal class MultilevelInheritanceAssignment
         obj.Diplay();
         obj.Screen();
 
+
     }
 }
 

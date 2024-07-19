@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.SingleInheritanceAssignment</StartupObject>
+    <StartupObject>MultilevelInheritanceAssignment</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
