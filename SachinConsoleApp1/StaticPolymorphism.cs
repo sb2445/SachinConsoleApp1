@@ -16,7 +16,7 @@ namespace SachinConsoleApp1
 
         public double Add(double p, double q)
         {
-            return q - p;
+            return q + p;
 
         }
 
