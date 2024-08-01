@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.CallExtMethod</StartupObject>
+    <StartupObject>SachinConsoleApp1.ArrayListAssignment</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
