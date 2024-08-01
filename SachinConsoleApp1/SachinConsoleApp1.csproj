@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SachinConsoleApp1.ArrayListAssignment</StartupObject>
+    <StartupObject>SachinConsoleApp1.RefAssignment</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -72,6 +72,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="RefAssignment.cs" />
     <Compile Include="SingleCastDelegatesAssignment.cs" />
     <Compile Include="SingleInheritanceAssignment.cs" />
     <Compile Include="StackAssignment.cs" />
