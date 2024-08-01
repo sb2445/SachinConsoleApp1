@@ -362,3 +362,5 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /SachinConsoleApp1/Enum.cs
+/SachinConsoleApp1/App.config
+*.cs

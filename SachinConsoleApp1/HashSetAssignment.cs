@@ -51,8 +51,8 @@ namespace SachinConsoleApp1
             }
 
             //intersection(reinitialize)
-            obj1 = new HashSet<int> { 1, 2, 3, 4, 5, };
-            obj2 = new HashSet<int> { 5, 6, 7, 8, };
+            obj1 = new HashSet<int> { 1, 2, 3, 4, 5 };
+            obj2 = new HashSet<int> { 5, 6, 7, 8 };
 
 
             

@@ -39,7 +39,7 @@ namespace SachinConsoleApp1
             }
 
             else if (Marks >= 61 && Marks <= 70)
-            {
+             {
                 Console.WriteLine("C Grade");
             }
             else if (Marks >= 35 && Marks <= 60)
