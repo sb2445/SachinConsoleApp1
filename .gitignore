@@ -364,3 +364,4 @@ FodyWeavers.xsd
 /SachinConsoleApp1/Enum.cs
 /SachinConsoleApp1/App.config
 *.cs
+/SachinConsoleApp1/SachinConsoleApp1.csproj
